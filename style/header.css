@@ -27,7 +27,7 @@
 .lista-menu {
     display: none;
     position: absolute;
-    top: 100%;
+    top: 94%;
     width: 60vw;
 }
 
@@ -124,7 +124,7 @@
         padding: 2em 1em;
     }
     .lista-menu__item:hover {
-        background-color: var(--azul-degrade);
+        background: var(--azul-degrade);
     }
     .lista-menu__item:hover>.lista-menu__link {
         -webkit-text-fill-color: var(--branco);
